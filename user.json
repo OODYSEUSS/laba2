@@ -1,0 +1,44 @@
+{"users":
+[
+  {
+    "id": "1",
+    "name": "Demidovich Ivanod",
+    "email": "qwerty@gmail.com"
+  }
+  {
+    "id": "2",
+    "name": "Anton nadezhyk",
+    "email": "qwerasdty@gmail.com"
+  }
+  {
+    "id": "3",
+    "name": "Daniil Martynovich",
+    "email": "qwerty@gmail.com"
+  }
+  {
+    "id": "4",
+    "name": "Angelika Martynovich",
+    "email": "qwerasdasdty@gmail.com"
+  }
+  {
+    "id": "5",
+    "name": "Xyrsina Antonovna",
+    "email": "asdds@gmail.com"
+  }
+  {
+    "id": "6",
+    "name": "Play Boy",
+    "email": "228@gmail.com"
+  }
+  {
+    "id": "7",
+    "name": "Poxotlivui Ivan",
+    "email": "hi@gmail.com"
+  }
+  {
+      "id": "8",
+      "name": "Laba Nomer2",
+      "email": "zdarova@gmail.com"
+    }
+]
+}
